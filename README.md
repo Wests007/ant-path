@@ -28,12 +28,16 @@ cd ant-path/
 __Для Windows__
 ```bash
 python -m venv venv
+```
+```bash
 source venv/scripts/activate
 ```
 
 __Для Ubuntu__
 ```bash
 python3 -m venv venv
+```
+```bash
 source venv/bin/activate
 ```
 
